@@ -1,2 +1,5 @@
 # hello-world
-my first Repository
+
+Hello World!
+
+I like JavaScript, Java and HTML
